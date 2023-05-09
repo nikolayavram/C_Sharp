@@ -1,0 +1,15 @@
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\bin\Debug\net6.0\DZ_3.exe
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\bin\Debug\net6.0\DZ_3.deps.json
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\bin\Debug\net6.0\DZ_3.runtimeconfig.json
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\bin\Debug\net6.0\DZ_3.dll
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\bin\Debug\net6.0\DZ_3.pdb
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.csproj.AssemblyReference.cache
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.AssemblyInfoInputs.cache
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.AssemblyInfo.cs
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.csproj.CoreCompileInputs.cache
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.dll
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\refint\DZ_3.dll
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.pdb
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\DZ_3.genruntimeconfig.cache
+D:\УЧЕБКА\CSharp\HomeWork\Homework_7\DZ_3\obj\Debug\net6.0\ref\DZ_3.dll
